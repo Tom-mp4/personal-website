@@ -1,3 +1,6 @@
+<script setup>
+</script>
+
 <template>
 <div class="title">
   <h1 class="text">
@@ -6,12 +9,6 @@
   </h1>
 </div>
 </template>
-
-<script>
-export default {
-  name: 'Title',
-};
-</script>
 
 <style scoped lang="scss">
 
@@ -25,7 +22,7 @@ export default {
     font-size: 50px;
 
     .gradient {
-      background: -webkit-linear-gradient(120deg, #43e97b 0%, #38f9d7 100%);
+      background: -webkit-linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
       background-clip: text;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;

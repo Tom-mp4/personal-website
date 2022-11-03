@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Construction from './Construction.vue';
+import Construction from '@/components/Construction.vue';
 import press1 from '@/assets/img/press1.png';
 import press2 from '@/assets/img/press2.png';
 import press3 from '@/assets/img/press3.png';
@@ -61,6 +61,7 @@ export default {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 3rem;
     padding: 0 2rem;
+    width: 70%;
   }
 }
 

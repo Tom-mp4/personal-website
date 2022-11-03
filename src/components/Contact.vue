@@ -60,7 +60,7 @@ export default {
         font-size: 30px;
 
         .gradient {
-          background: -webkit-linear-gradient(120deg, #43e97b 0%, #38f9d7 100%);
+          background: -webkit-linear-gradient(120deg, #d4fc79 0%,  #96e6a1 100%);
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
