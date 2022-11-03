@@ -5,12 +5,13 @@
       À Propos
     </h2>
     <p class="text">
-      Bonjour, je suis Tom, 16 ans, développeur web, vidéaste, photographe et musicien.<br><br>
-      Passionné par les différents aspects de la vidéo, c'est à 11 ans que je décide de réaliser
-      mon premier court métrage. Depuis cette passion s'est répandue pour le développement et tout
-      ce qui concerne l'informatique de près ou de loin.<br>Je jongle ainsi entre réalisations
-      audiovisuelles et projets informatiques, m'offrant ainsi à de nombreuses expériences et
-      projets.
+      Bonjour, je suis Tom, 17 ans, développeur front-end, graphiste, vidéaste, photographe et
+      musicien.<br><br>
+      Passionné par les différents aspects de la vidéo, c'est il y a 6 ans que je décide de
+      réaliser mon premier court métrage. Depuis cette passion s'est répandue pour le développement
+      et tout ce qui concerne l'informatique de près ou de loin.<br>Je jongle ainsi entre
+      réalisations audiovisuelles et projets informatiques, m'offrant ainsi à de nombreuses
+      expériences et projets.
     </p>
   </div>
   <div class="competences">
@@ -81,7 +82,7 @@ export default {
 
     h2 {
       font-size: 34px;
-      background: -webkit-linear-gradient(120deg, #43e97b 0%, #38f9d7 100%);
+      background: -webkit-linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
       background-clip: text;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;

@@ -1,6 +1,6 @@
 <template>
 <div class="navbar">
-  <img src="/logo/logo.webp" alt="" class="img">
+  <img src="/logo/logo-white.svg" alt="logo" class="img">
 </div>
 </template>
 
@@ -19,7 +19,7 @@ export default {
   padding: 20px 0;
 
   .img {
-    width: 8%;
+    width: 12%;
   }
 }
 

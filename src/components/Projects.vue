@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import Construction from './Construction.vue';
+import Construction from '@/components/Construction.vue';
 import wwah from '@/assets/img/wwah.webp';
 import kortxo from '@/assets/img/kortxo.webp';
 import pisoo from '@/assets/img/pisoo.webp';
