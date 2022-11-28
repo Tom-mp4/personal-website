@@ -29,7 +29,7 @@ export default {
 
   .navbar {
     .img {
-      width: 20%;
+      width: 40%;
     }
   }
 }
