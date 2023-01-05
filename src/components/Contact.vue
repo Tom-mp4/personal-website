@@ -10,19 +10,19 @@
     <div class="line"></div>
     <div class="socials">
       <a target="_blank" href="https://github.com/Tom-mp4" class="social-link">
-        <img src="/logo/github.png" alt="github" class="social-icons">
+        <img src="../assets/logo/github.png" alt="github" class="social-icons">
       </a>
       <a target="_blank" href="https://www.behance.net/tom_mp4" class="social-link">
-        <img src="/logo/behance.png" alt="behance" class="social-icons">
+        <img src="../assets/logo/behance.png" alt="behance" class="social-icons">
       </a>
       <a target="_blank" href="https://www.instagram.com/visuals.works/" class="social-link">
-        <img src="/logo/instagram.png" alt="instagram" class="social-icons">
+        <img src="../assets/logo/instagram.png" alt="instagram" class="social-icons">
       </a>
       <a target="_blank" href="https://discord/com/users/411863911051165696" class="social-link">
-        <img src="/logo/discord.png" alt="discord" class="social-icons">
+        <img src="../assets/logo/discord.png" alt="discord" class="social-icons">
       </a>
       <a target="_blank" href="https://twitter.com/tom_sfx" class="social-link">
-        <img src="/logo/twitter.png" alt="twitter" class="social-icons">
+        <img src="../assets/logo/twitter.png" alt="twitter" class="social-icons">
       </a>
     </div>
   </div>

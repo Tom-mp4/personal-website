@@ -16,17 +16,17 @@
 
 <script>
 import Construction from '@/components/Construction.vue';
-import wwah from '@/assets/img/wwah.webp';
-import kortxo from '@/assets/img/kortxo.webp';
-import pisoo from '@/assets/img/pisoo.webp';
-import graphism from '@/assets/img/graphisme.webp';
-import asynconf from '@/assets/img/asynconf.webp';
-import photos from '@/assets/img/kseniya.webp';
-import alaia from '@/assets/img/alaia.webp';
-import showreel from '@/assets/img/showreel.webp';
-import leo from '@/assets/img/leo.webp';
-import graven from '@/assets/img/graven.webp';
-import benjamin from '@/assets/img/benjamin.webp';
+import wwah from '../assets/img/wwah.webp';
+import kortxo from '../assets/img/kortxo.webp';
+import pisoo from '../assets/img/pisoo.webp';
+import graphism from '../assets/img/graphisme.webp';
+import asynconf from '../assets/img/asynconf.webp';
+import photos from '../assets/img/kseniya.webp';
+import alaia from '../assets/img/alaia.webp';
+import showreel from '../assets/img/showreel.webp';
+import leo from '../assets/img/leo.webp';
+import graven from '../assets/img/graven.webp';
+import benjamin from '../assets/img/benjamin.webp';
 
 export default {
   name: 'Projects',

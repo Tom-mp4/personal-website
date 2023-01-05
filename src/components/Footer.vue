@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     <h2>
-      Tom Mrt - 2022
+      Tom Mrt - 2023
     </h2>
   </div>
 </template>

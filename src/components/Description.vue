@@ -20,40 +20,40 @@
     </h1>
     <div class="tools">
       <a target="_blank" href="https://developer.mozilla.org/fr/docs/Web/HTML" class="tool">
-        <img src="logo/html.png" alt="html" class="tool-img">
+        <img src="../assets/logo/html.png" alt="html" class="tool-img">
       </a>
       <a target="_blank" href="https://sass-lang.com/" class="tool">
-        <img src="logo/sass.png" alt="scss" class="tool-img">
+        <img src="../assets/logo/sass.png" alt="scss" class="tool-img">
       </a>
       <a target="_blank" href="https://developer.mozilla.org/fr/docs/Web/JAVASCRIPT" class="tool">
-        <img src="logo/js.png" alt="javascript" class="tool-img">
+        <img src="../assets/logo/js.png" alt="javascript" class="tool-img">
       </a>
       <a target="_blank" href="https://vuejs.org/" class="tool">
-        <img src="logo/vue.png" alt="javascript" class="tool-img">
+        <img src="../assets/logo/vue.png" alt="javascript" class="tool-img">
       </a>
       <a target="_blank" href="https://www.jetbrains.com/fr-fr/webstorm/" class="tool">
-        <img src="logo/wb.png" alt="webstorm" class="tool-img">
+        <img src="../assets/logo/wb.png" alt="webstorm" class="tool-img">
       </a>
       <a target="_blank" href="https://www.jetbrains.com/fr-fr/datagrip/" class="tool">
-        <img src="logo/dg.png" alt="datagrip" class="tool-img">
+        <img src="../assets/logo/dg.png" alt="datagrip" class="tool-img">
       </a>
       <a target="_blank" href="https://www.adobe.com/fr/products/premiere.html" class="tool">
-        <img src="logo/pr.png" alt="premiere-pro" class="tool-img">
+        <img src="../assets/logo/pr.png" alt="premiere-pro" class="tool-img">
       </a>
       <a target="_blank" href="https://www.adobe.com/fr/products/aftereffects.html" class="tool">
-        <img src="logo/ae.png" alt="after-effect" class="tool-img">
+        <img src="../assets/logo/ae.png" alt="after-effect" class="tool-img">
       </a>
       <a target="_blank" href="https://www.adobe.com/fr/products/photoshop.html" class="tool">
-        <img src="logo/ps.png" alt="photoshop" class="tool-img">
+        <img src="../assets/logo/ps.png" alt="photoshop" class="tool-img">
       </a>
       <a target="_blank" href="https://www.adobe.com/fr/products/illustrator.html" class="tool">
-        <img src="logo/ai.png" alt="illustrator" class="tool-img">
+        <img src="../assets/logo/ai.png" alt="illustrator" class="tool-img">
       </a>
       <a target="_blank" href="https://www.adobe.com/fr/products/photoshop-lightroom.html" class="tool">
-        <img src="logo/lr.png" alt="lightroom" class="tool-img">
+        <img src="../assets/logo/lr.png" alt="lightroom" class="tool-img">
       </a>
       <a target="_blank" href="https://www.blackmagicdesign.com/fr/products/davinciresolve/" class="tool">
-        <img src="logo/dr.png" alt="davinci-resolve" class="tool-img">
+        <img src="../assets/logo/dr.png" alt="davinci-resolve" class="tool-img">
       </a>
     </div>
   </div>
